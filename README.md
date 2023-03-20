@@ -86,16 +86,16 @@ To run the tests, use the following command:
 php artisan test
 ```
 Results
-![image description](/public/images/test.png)
+![image description](/public/image/test.png)
 
 
 #### Form:
-![image description](/public/images/home.png)
+![image description](/public/image/home.png)
 
 
 #### Table:
-![image description](/public/images/table.png)
+![image description](/public/image/table.png)
 
 #### Chart:
-![image description](/public/images/chart.png)
+![image description](/public/image/chart.png)
 
