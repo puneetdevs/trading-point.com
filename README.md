@@ -1,7 +1,10 @@
 ## Project Overview
 
-This project is a URL shortener service. It allows users to create short URLs that redirect to a destination URL. The service also keeps track of the number of views for each short URL.
-
+In this exercise you need to create a PHP application that will have a form with the following fields:
+● Company Symbol
+● Start Date (YYYY-mm-dd)
+● End Date (YYYY-mm-dd)
+● Email
 
 
 ## Prerequisites
